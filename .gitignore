@@ -1,0 +1,5 @@
+*.vscode
+/build
+resources.qrc
+dist
+node_modules
